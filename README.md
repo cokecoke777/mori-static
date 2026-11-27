@@ -1,0 +1,1 @@
+# mori-static
